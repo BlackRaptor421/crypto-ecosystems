@@ -78,7 +78,7 @@ It is a help to everyone to include an ask to contribute next to your attributio
 Sample request language: "If you’re working in open source crypto, submit your repository here to be counted."
 
 <ins>Sample attribution</ins>
-
+/
 Data Source: [Electric Capital Crypto Ecosystems](https://github.com/electric-capital/crypto-ecosystems)
 
 If you’re working in open source crypto, submit your repository [here](https://github.com/electric-capital/crypto-ecosystems) to be counted.
