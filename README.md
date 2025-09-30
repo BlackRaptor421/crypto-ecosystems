@@ -83,5 +83,5 @@ Data Source: [Electric Capital Crypto Ecosystems](https://github.com/electric-ca
 
 If you’re working in open source crypto, submit your repository [here](https://github.com/electric-capital/crypto-ecosystems) to be counted.
 
-Thank you for contributing and for reading the contribution guide! ❤️ 12345678910
+Thank you for contributing and for reading the contribution guide! ❤️ 
 10
